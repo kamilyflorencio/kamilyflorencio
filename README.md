@@ -4,7 +4,7 @@
 .𖥔 ݁ ˖   ✦    ‧₊˚ ⋅ ───────────────────────────── ⋅ ˚₊‧    ✦   ˖ ݁ 𖥔.
 </p>
 
-👩🏻‍🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade Positivo**
+👩🏻‍🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade Positivo.**
 
 💻 Futura Desenvolvedora Front-End, unindo tecnologia e criatividade.
 
