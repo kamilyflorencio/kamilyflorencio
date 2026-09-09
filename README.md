@@ -36,7 +36,7 @@ Estou no começo da minha jornada na tecnologia e gosto de aprender colocando me
 
 🍽️ **AlimentaAção**
 
-Aplicativo criado para conectar restaurantes e ONGs e ajudar a reduzir o desperdício de alimentos.
+Projeto acadêmico de combate ao desperdício de alimentos e conexão com ONGs.
 
 ## ✦ Vamos nos conectar?
 
