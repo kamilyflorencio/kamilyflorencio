@@ -36,7 +36,7 @@ Estou no começo da minha jornada na tecnologia e gosto de aprender colocando me
 
 🍽️ **AlimentaAção**
 
-Projeto acadêmico de combate ao desperdício de alimentos e conexão com ONGs.
+Projeto acadêmico de combate ao desperdício de alimentos e conexão com ONGs, com foco em UI/UX Design e na criação de interfaces.
 
 ## ✦ Vamos nos conectar?
 
