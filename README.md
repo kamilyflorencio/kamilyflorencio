@@ -40,9 +40,9 @@ Aplicativo criado para conectar restaurantes e ONGs e ajudar a reduzir o desperd
 
 ## ✦ Vamos nos conectar?
 
-💼 [LinkedIn](https://www.linkedin.com/in/kamily-florencio)
+📲 [LinkedIn](https://www.linkedin.com/in/kamily-florencio)
 
-🐙 [GitHub](https://github.com/kamilyflorencio)
+📲 [GitHub](https://github.com/kamilyflorencio)
 
 <p align="center">
 .𖥔 ݁ ˖   ✦    ‧₊˚ ⋅ ───────────────────────────── ⋅ ˚₊‧    ✦   ˖ ݁ 𖥔.
