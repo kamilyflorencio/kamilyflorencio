@@ -20,17 +20,19 @@ Estou no começo da minha jornada na tecnologia e gosto de aprender colocando me
 
 • Python
 
+• Linguagem C
+
 • HTML & CSS
 
 • Git & GitHub
 
 • Figma & Canva
 
-• Lógica de Programação
-
-• Fundamentos de Banco de Dados
+• Modelagem de Banco de Dados
 
 • UI/UX Design
+
+• IA Generativa
 
 ## ✦ Projetos
 
