@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150">
+  <defs>
+    <radialGradient id="bottom" cx="50%" cy="100%" r="85%">
+      <stop offset="0%" stop-color="#a56bea"/>
+      <stop offset="48%" stop-color="#55218f"/>
+      <stop offset="100%" stop-color="#08040f"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="150" fill="#08040f"/>
+  <rect width="1200" height="150" fill="url(#bottom)"/>
+  <g fill="#e3c8ff">
+    <path d="M90 65h8v8h-8v8h-8v-8h-8v-8h8v-8h8z"/>
+    <path d="M1080 88h8v8h-8v8h-8v-8h-8v-8h8v-8h8z"/>
+    <path d="M580 100h8v8h-8v8h-8v-8h-8v-8h8v-8h8z"/>
+    <circle cx="180" cy="105" r="4"/><circle cx="1000" cy="48" r="4"/>
+  </g>
+  <text x="600" y="91" text-anchor="middle" fill="#f3eaff" font-family="Verdana,Arial,sans-serif" font-size="18">Obrigada pela visita! ✦</text>
+</svg>
