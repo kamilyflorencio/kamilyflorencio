@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg" alt="Oi, sou a Kamily!" width="100%" />
+  <img src="assets/header.png" alt="Oi, sou a Kamily!" width="100%" />
 </div>
 
 <br>
@@ -25,33 +25,33 @@
 
 <br>
 
-<h2 align="center">Skills &amp; Technologies</h2>
+<h2 align="left">Skills &amp; Technologies</h2>
 
 <div align="center">
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
       <h3 align="center">Development</h3>
-      <img src="assets/badges/html5.svg" alt="HTML5" height="32" />
-      <img src="assets/badges/css3.svg" alt="CSS3" height="32" />
+      <img src="assets/badges/html5.svg" alt="HTML5" height="26" />
+      <img src="assets/badges/css3.svg" alt="CSS3" height="26" />
       <br><br>
-      <img src="assets/badges/javascript.svg" alt="JavaScript" height="32" />
-      <img src="assets/badges/python.svg" alt="Python" height="32" />
+      <img src="assets/badges/javascript.svg" alt="JavaScript" height="26" />
+      <img src="assets/badges/python.svg" alt="Python" height="26" />
       <br><br>
-      <img src="assets/badges/c.svg" alt="C" height="32" />
-      <img src="assets/badges/sql.svg" alt="SQL" height="32" />
+      <img src="assets/badges/c.svg" alt="C" height="26" />
+      <img src="assets/badges/sql.svg" alt="SQL" height="26" />
     </td>
     <td width="33%" align="center" valign="top">
       <h3 align="center">Design</h3>
-      <img src="assets/badges/figma.svg" alt="Figma" height="32" />
-      <img src="assets/badges/canva.svg" alt="Canva" height="32" />
+      <img src="assets/badges/figma.svg" alt="Figma" height="26" />
+      <img src="assets/badges/canva.svg" alt="Canva" height="26" />
       <br><br>
-      <img src="assets/badges/uxui.svg" alt="UX/UI" height="32" />
+      <img src="assets/badges/uxui.svg" alt="UX/UI" height="26" />
     </td>
     <td width="34%" align="center" valign="top">
       <h3 align="center">Tools</h3>
-      <img src="assets/badges/github.svg" alt="GitHub" height="32" />
-      <img src="assets/badges/vscode.svg" alt="VS Code" height="32" />
+      <img src="assets/badges/github.svg" alt="GitHub" height="26" />
+      <img src="assets/badges/vscode.svg" alt="VS Code" height="26" />
     </td>
   </tr>
 </table>
@@ -89,5 +89,5 @@
 <br>
 
 <div align="center">
-  <img src="assets/footer.svg" alt="Rodapé com degradê roxo" width="100%" />
+  <img src="assets/footer.png" alt="Rodapé com degradê roxo" width="100%" />
 </div>
