@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header-roxo.png" alt="Oi, sou a Kamily!" width="100%" />
+  <img src="assets/header-kamily.png" alt="Oi, sou a Kamily!" width="100%" />
 </div>
 
 <br>
@@ -87,5 +87,5 @@
 <br>
 
 <div align="center">
-  <img src="assets/footer-roxo.png" alt="Rodapé com degradê roxo" width="100%" />
+  <img src="assets/footer-kamily.png" alt="Obrigada pela visita!" width="100%" />
 </div>
