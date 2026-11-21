@@ -12,7 +12,7 @@
         Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> e estou construindo minha trajetória na área de tecnologia, com o objetivo de me tornar desenvolvedora web.
       </p>
       <p>
-        Meu interesse também envolve design e experiência do usuário, áreas que complementam minha visão sobre o desenvolvimento de soluções digitais. Gosto de explorar novas ferramentas, conhecer diferentes tecnologias e descobrir cada vez mais possibilidades dentro da área de TI.
+        Meu interesse também envolve design gráfico, áreas que complementam minha visão sobre o desenvolvimento de soluções digitais. Gosto de explorar novas ferramentas, conhecer diferentes tecnologias e descobrir cada vez mais possibilidades dentro da área de TI.
       </p>
     </td>
     <td width="38%" align="center" valign="middle">
