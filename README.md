@@ -25,34 +25,37 @@
 
 <br>
 
-<h2 align="left">Skills &amp; Technologies</h2>
+<h2 align="center">Skills &amp; Technologies</h2>
 
+<div align="center">
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>Development</h3>
-      <img src="https://img.shields.io/badge/HTML5-9B5CFF?style=flat&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-9B5CFF?style=flat&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-9B5CFF?style=flat&logo=javascript&logoColor=white" />
+    <td width="33%" align="center" valign="top">
+      <h3 align="center">Development</h3>
+      <img src="assets/badges/html5.svg" alt="HTML5" height="32" />
+      <img src="assets/badges/css3.svg" alt="CSS3" height="32" />
       <br><br>
-      <img src="https://img.shields.io/badge/Python-9B5CFF?style=flat&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/C-9B5CFF?style=flat&logo=c&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-9B5CFF?style=flat&logo=mysql&logoColor=white" />
-    </td>
-    <td width="33%" valign="top">
-      <h3>Design</h3>
-      <img src="https://img.shields.io/badge/Figma-9B5CFF?style=flat&logo=figma&logoColor=white" />
-      <img src="https://img.shields.io/badge/Canva-9B5CFF?style=flat&logo=canva&logoColor=white" />
+      <img src="assets/badges/javascript.svg" alt="JavaScript" height="32" />
+      <img src="assets/badges/python.svg" alt="Python" height="32" />
       <br><br>
-      <img src="https://img.shields.io/badge/UX%2FUI-9B5CFF?style=flat" />
+      <img src="assets/badges/c.svg" alt="C" height="32" />
+      <img src="assets/badges/sql.svg" alt="SQL" height="32" />
     </td>
-    <td width="34%" valign="top">
-      <h3>Tools</h3>
-      <img src="https://img.shields.io/badge/GitHub-9B5CFF?style=flat&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/VS%20Code-9B5CFF?style=flat&logo=visualstudiocode&logoColor=white" />
+    <td width="33%" align="center" valign="top">
+      <h3 align="center">Design</h3>
+      <img src="assets/badges/figma.svg" alt="Figma" height="32" />
+      <img src="assets/badges/canva.svg" alt="Canva" height="32" />
+      <br><br>
+      <img src="assets/badges/uxui.svg" alt="UX/UI" height="32" />
+    </td>
+    <td width="34%" align="center" valign="top">
+      <h3 align="center">Tools</h3>
+      <img src="assets/badges/github.svg" alt="GitHub" height="32" />
+      <img src="assets/badges/vscode.svg" alt="VS Code" height="32" />
     </td>
   </tr>
 </table>
+</div>
 
 <br>
 
