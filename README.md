@@ -9,12 +9,10 @@
     <td width="62%" valign="middle">
       <h2>About Me</h2>
       <p>
-        Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> e estou construindo minha trajetória na área de tecnologia.
-        Tenho interesse em desenvolvimento web, criação de interfaces e experiência do usuário.
+        Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> e estou construindo minha trajetória na área de tecnologia, com o objetivo de me tornar desenvolvedora web.
       </p>
       <p>
-        Atualmente, estudo HTML, CSS, JavaScript, Python, C e SQL, além de explorar ferramentas de design como Figma e Canva.
-        Gosto de aprender na prática, desenvolver projetos e transformar ideias em soluções digitais.
+        Meu interesse também envolve design e experiência do usuário, áreas que complementam minha visão sobre o desenvolvimento de soluções digitais. Gosto de explorar novas ferramentas, conhecer diferentes tecnologias e descobrir cada vez mais possibilidades dentro da área de TI.
       </p>
     </td>
     <td width="38%" align="center" valign="middle">
